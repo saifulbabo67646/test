@@ -1,0 +1,15 @@
+.float{
+    position:absolute;
+    height:40px;
+    top: 50%;
+    left:35%;
+    background-color:#f3f3f5;
+    color:#030303;
+    text-align:center;
+    box-shadow: 2px 2px 3px #999;
+  }
+  
+  .my-float{
+    margin-top:22px;
+  }
+  
