@@ -1,3 +1,7 @@
+uni-app{
+  display: none !important;
+}
+
 .float{
     position:fixed;
     width:90px;
